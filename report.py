@@ -43,8 +43,8 @@ class Reporter:
 
 
 jira = JIRA(
-    server='https://jira.deliveryhero.com',
-    basic_auth=('frederico.cabral', 'eTnp0as3')
+    server='https://jira.server.com',
+    basic_auth=('you username', 'your password')
 )
 
 
